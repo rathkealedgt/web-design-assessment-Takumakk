@@ -1,0 +1,14 @@
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\AS91880.dll.config
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\AS91880.dll
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\AS91880.pdb
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\AS91880.xml
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.vbprojAssemblyReference.cache
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.Resources.resources
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.vbproj.GenerateResource.cache
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.vbproj.CoreCompileInputs.cache
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.vbproj.CopyComplete
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.dll
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.xml
+C:\Users\kanek\Documents\GitHub\web-design-assessment-Takumakk\AS91880\obj\Debug\AS91880.pdb
