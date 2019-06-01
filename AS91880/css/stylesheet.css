@@ -1,13 +1,24 @@
 ﻿
+.html {
+    font-family: 'Roboto Slab', serif;
+}
+
+.a:hover {
+
+}
+
+body {
+    margin: auto;
+    padding: 50px;
+    color: #000000;
+}
+
+
+
 .All {
     display: grid;
-    grid-template-columns: 2fr 4fr;
+    grid-template-columns: 4fr 2fr;
     grid-template-rows: auto;
-    grid-template-areas:
-        "nav nav nav nav nav nav"
-        "logo logo logo logo logo logo"
-        "main main main main side"
-        "footer footer footer footer footer footer";
 }
 
 .in {
@@ -15,31 +26,47 @@
     padding: 20px;
 }
 
-/*strucutre start*/
+/*grid area start*/
+/*nav and footer background are same */
+
 
 .nav {
     border: solid 1px #000000; 
     background-color: #8C6A4D;
     grid-area: nav;
+    grid-column: 1 / 6; 
+    grid-row: 1;
+    color: white;
+    text-align: center;
 }
 
 .logo {
     grid-area: logo;
+    grid-column: 1 / 6;
+    grid-row: 2;
 }
 
 .main {
     background-color: #BED17D;
     grid-area: main;
+    grid-column: 1 / 4;
+    grid-row: 3;
 }
 
 .side {
     background-color: #D9AA3D;
     grid-area: side;
+    grid-column: 5 / 6;
+    grid-row: 3
 }
 
 .footer {
     background-color: #8C6A4D;
     grid-area: footer;
+    grid-column: 1 / 6;
+    grid-row: 4;
+    color: white;
 }
 
-/*structure end*/
+/*grid area end*/
+
