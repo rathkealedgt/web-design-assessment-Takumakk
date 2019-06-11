@@ -26,7 +26,7 @@
             <h1>
                 <a href="index.html">Home</a> |
                 <a href="Reference.aspx">Reference</a> |
-                <a href="Contact us.aspx">Contact us</a>
+                <a href="Contact.aspx">Contact us</a>
             </h1>
         </div> <!--navigation-->
 
@@ -48,22 +48,22 @@
 
             <div class="in side">
                <div class="Store">
-                  <h2>My Profile</h2>
+                  <h3>My Profile</h3>
                 </div>
-                <p><img src="../image/resize logo.png" alt="logo" width="350" height="218" />
+                <p><img src="../image/logo.png" alt="logo" width="350" height="218" />
                 
                 <div class="sidetext">
                    Name:<b>181102</b><br />
                    I'm Japanese international student.<br />
                    My birth is 15/1/2003<br />
-                 <p>>If you want to contact me, please come to this site:<a href="Contact us.aspx"><b>Contact me</b></a>
+                 <p>>If you want to contact me, please come to this site:<a href="Contact.aspx"><b>Contact me</b></a>
                 </div>
             </div>
                 
                 
         <div class="in footer">
             <div class="text">
-            <small>Made by Takuma Kaneko(c)2019</small>
+            <small>(C)2019 Takuma Kaneko</small>
             </div>
         </div> <!--Footer-->
 

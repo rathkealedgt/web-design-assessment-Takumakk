@@ -31,6 +31,10 @@ h2 {
     font-style: italic;
 }
 
+.h3 {
+    text-decoration: underline;
+    font-style: italic;
+}
 
 .in {
     border: solid 1px #000000;
@@ -70,7 +74,7 @@ h2 {
 
 .logo {
     grid-area: logo;
-    background-image: url('../image/Logo Resize5.png');
+    background-image: url('../image/LogoResize5.png');
     background-size: cover;
     height: 300px;
 }
@@ -105,7 +109,7 @@ h2 {
     background-color: #8C6A4D;
     grid-area: footer;
     color: white;
-    text-align: left;
+    text-align: right;
 }
 
 /*grid area end*/
@@ -126,4 +130,13 @@ h2 {
 
 .star {
     color: yellow;
+}
+
+.review {
+    right: 100px;
+}
+
+.images img {
+    border-radius: 11px;
+    margin-right: 10px;
 }

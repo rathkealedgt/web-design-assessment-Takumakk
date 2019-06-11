@@ -92,18 +92,18 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Contact us.aspx" />
+    <Content Include="Contact.aspx" />
     <Content Include="css\stylesheet.css" />
     <Content Include="index.html" />
     <Content Include="Reference.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contact us.aspx.designer.vb">
-      <DependentUpon>Contact us.aspx</DependentUpon>
+    <Compile Include="Contact.aspx.designer.vb">
+      <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Contact us.aspx.vb">
-      <DependentUpon>Contact us.aspx</DependentUpon>
+    <Compile Include="Contact.aspx.vb">
+      <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
