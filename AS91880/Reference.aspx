@@ -38,9 +38,9 @@
             <h2>Reference Site</h2>
             <div class="text">
             <ul>
-               <li>Most picture provide from <a href="https://pixabay.com/ja/"><b>pixabay</b></a></li>
-               <li>Palette Generator:<a href="http://www.palettefx.com/"><b>Palettefx</b></a></li>
-               <li>Software:<a href="https://www.adobe.com/nz/products/photoshop.html"><b>Photoshop</b></a></li>
+               <li>Most picture provide from <a href="https://pixabay.com/ja/"><strong>pixabay</strong></a></li>
+               <li>Palette Generator:<a href="http://www.palettefx.com/"><strong>Palettefx</strong></a></li>
+               <li>Software:<a href="https://www.adobe.com/nz/products/photoshop.html"><strong>Photoshop</strong></a></li>
             </ul>
               <h2>Thank you!!</h2>                
            </div>          
@@ -53,10 +53,10 @@
                 <p><img src="../image/logo.png" alt="logo" width="350" height="218" />
                 
                 <div class="sidetext">
-                   Name:<b>181102</b><br />
+                   Name:<strong>181102</strong><br />
                    I'm Japanese international student.<br />
                    My birth is 15/1/2003<br />
-                 <p>>If you want to contact me, please come to this site:<a href="Contact.aspx"><b>Contact me</b></a>
+                 >If you want to contact me, please come to this site:<a href="Contact.aspx"><b>Contact me</b></a>
                 </div>
             </div>
                 
