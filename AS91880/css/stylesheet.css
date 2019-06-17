@@ -1,6 +1,7 @@
 ﻿
 .html {
     font-family: 'Roboto', sans-serif;
+    font-size: 
 }
 
 body {
@@ -23,6 +24,7 @@ body {
         "logo logo"
         "main side"
         "footer footer";
+    font-size: 16px;
 }
 
 /*Text decoration*/
@@ -52,6 +54,7 @@ body {
     text-align: center;
     height: 70px;
     text-shadow: black 1px 1px 0px, black -1px 1px 0px, black 1px -1px 0px, black -1px -1px 0px;
+    border-radius: 10px 10px 0 0;
 }
 
 .nav a {
@@ -110,6 +113,7 @@ body {
     grid-area: footer;
     color: white;
     text-align: right;
+    border-radius: 0 0 10px 10px;
 }
 
 /*grid area end*/

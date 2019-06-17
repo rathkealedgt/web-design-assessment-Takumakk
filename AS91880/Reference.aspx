@@ -56,7 +56,7 @@
                    Name:<strong>181102</strong><br />
                    I'm Japanese international student.<br />
                    My birth is 15/1/2003<br />
-                 >If you want to contact me, please come to this site:<a href="Contact.aspx"><b>Contact me</b></a>
+                 >If you want to contact me, please come to this site:<a href="Contact.aspx"><strong>Contact me</strong></a>
                 </div>
             </div>
                 
